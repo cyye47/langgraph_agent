@@ -1,0 +1,435 @@
+1. Behav Brain Res. 2021 May 7;405:113201. doi: 10.1016/j.bbr.2021.113201. Epub 
+2021 Feb 26.
+
+Targeting muscarinic receptors to treat schizophrenia.
+
+Foster DJ(1), Bryant ZK(1), Conn PJ(2).
+
+Author information:
+(1)Department of Pharmacology, Vanderbilt University, Nashville, TN, 37232, 
+United States; Warren Center for Neuroscience Drug Discovery, Vanderbilt 
+University, Nashville, TN, 37232, United States.
+(2)Department of Pharmacology, Vanderbilt University, Nashville, TN, 37232, 
+United States; Warren Center for Neuroscience Drug Discovery, Vanderbilt 
+University, Nashville, TN, 37232, United States. Electronic address: 
+jeff.conn@vanderbilt.edu.
+
+Schizophrenia is a severe neuropsychiatric disorder characterized by a diverse 
+range of symptoms that can have profound impacts on the lives of patients. 
+Currently available antipsychotics target dopamine receptors, and while they are 
+useful for ameliorating the positive symptoms of the disorder, this approach 
+often does not significantly improve negative and cognitive symptoms. 
+Excitingly, preclinical and clinical research suggests that targeting specific 
+muscarinic acetylcholine receptor subtypes could provide more comprehensive 
+symptomatic relief with the potential to ameliorate numerous symptom domains. 
+Mechanistic studies reveal that M1, M4, and M5 receptor subtypes can modulate 
+the specific brain circuits and physiology that are disrupted in schizophrenia 
+and are thought to underlie positive, negative, and cognitive symptoms. Novel 
+therapeutic strategies for targeting these receptors are now advancing in 
+clinical and preclinical development and expand upon the promise of these new 
+treatment strategies to potentially provide more comprehensive relief than 
+currently available antipsychotics.
+
+Copyright © 2021 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bbr.2021.113201
+PMCID: PMC8006961
+PMID: 33647377 [Indexed for MEDLINE]
+
+
+2. Am J Psychiatry. 2022 Sep;179(9):611-627. doi: 10.1176/appi.ajp.21101083. Epub 
+2022 Jun 27.
+
+Muscarinic Acetylcholine Receptor Agonists as Novel Treatments for 
+Schizophrenia.
+
+Paul SM(1), Yohn SE(1), Popiolek M(1), Miller AC(1), Felder CC(1).
+
+Author information:
+(1)Karuna Therapeutics, Boston.
+
+Schizophrenia remains a challenging disease to treat effectively with current 
+antipsychotic medications due to their limited efficacy across the entire 
+spectrum of core symptoms as well as their often burdensome side-effect profiles 
+and poor tolerability. An unmet need remains for novel, mechanistically unique, 
+and better tolerated therapeutic agents for treating schizophrenia, especially 
+those that treat not only positive symptoms but also the negative and cognitive 
+symptoms of the disease. Almost 25 years ago, the muscarinic acetylcholine 
+receptor (mAChR) agonist xanomeline was reported to reduce psychotic symptoms 
+and improve cognition in patients with Alzheimer's disease. The antipsychotic 
+and procognitive properties of xanomeline were subsequently confirmed in a small 
+study of acutely psychotic patients with chronic schizophrenia. These unexpected 
+clinical findings have prompted considerable efforts across academia and 
+industry to target mAChRs as a new approach to potentially treat schizophrenia 
+and other psychotic disorders. The authors discuss recent advances in mAChR 
+biology and pharmacology and the current understanding of the relative roles of 
+the various mAChR subtypes, their downstream cellular effectors, and key neural 
+circuits mediating the reduction in the core symptoms of schizophrenia in 
+patients treated with xanomeline. They also provide an update on the status of 
+novel mAChR agonists currently in development for potential treatment of 
+schizophrenia and other neuropsychiatric disorders.
+
+DOI: 10.1176/appi.ajp.21101083
+PMID: 35758639 [Indexed for MEDLINE]
+
+
+3. Trends Pharmacol Sci. 2022 Dec;43(12):1098-1112. doi: 
+10.1016/j.tips.2022.09.006. Epub 2022 Oct 20.
+
+Muscarinic acetylcholine receptors for psychotic disorders: bench-side to 
+clinic.
+
+Yohn SE(1), Weiden PJ(1), Felder CC(1), Stahl SM(2).
+
+Author information:
+(1)Karuna Therapeutics, Boston, MA, USA.
+(2)University of California San Diego at Riverside, La Jolla, CA, USA. 
+Electronic address: smstahl@neiglobal.com.
+
+Modern interest in muscarinic acetylcholine receptor (mAChR) activators for 
+schizophrenia began in the 1990s when xanomeline, an M1/M4-preferring mAChR 
+agonist developed for cognitive symptoms of Alzheimer's disease (AD), had 
+unexpected antipsychotic activity. However, strategies to address tolerability 
+concerns associated with activation of peripheral mAChRs were not available at 
+that time. The discovery of specific targeted ligands and combination treatments 
+to reduce peripheral mAChR engagement have advanced the potential of mAChR 
+activators as effective treatments for psychotic disorders. This review provides 
+perspectives on the background of the identification of mAChRs as potential 
+antipsychotics, advances in the preclinical understanding of mAChRs as targets, 
+and the current state of mAChR activators under active clinical development for 
+schizophrenia.
+
+Copyright © 2022 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.tips.2022.09.006
+PMID: 36273943 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests S.E.Y., P.W.W. and 
+C.C.F. are employees of and hold equity in Karuna Therapeutics. S.M.S. has 
+served as a consultant to Acadia, Adamas, Alkermes, Allergan, Abbvie, Arbor 
+Pharmaceutcials, AstraZeneca, Avanir, Axovant, Axsome, Biogen, Biomarin, 
+Biopharma, Celgene, Concert, ClearView, DepoMed, EMD Serono, Eisai 
+Pharmaceuticals, Eurolink, Ferring, Forest, Genomind, Innovative Science 
+Solutions, Impel, Karuna, NeuroPharma, Intra-Cellular Therapies, Ironshore 
+Pharmaceuticals, Janssen, Jazz, Karuna, Lilly, Lundbeck, Merck, Neos, 
+Neurocrine, Novartis, Noveida, Otsuka, Perrigo, Pfizer, Pierre Fabre, Proxymm, 
+Relmada, Reviva, Sage Therapeutics, Servier, Shire, Sprout, Sunovion, TMS 
+NeuroHealth, Takeda, Taliaz, Teva, Tonix, Tris Pharma, Trius, Vanda, Vertex, and 
+Viforpharma; he holds options in Genomind, Lipidio, and Delix; he has been a 
+board member of RCT Logic and Genomind; he has served on speakers bureaus for 
+Acadia, Genentech, Janssen, Lundbeck, Merck, Otsuka, Servier, Sunovion, Takeda, 
+and Teva; and he has received research and/or grant support from Acadia, 
+Alkermes, Allergan/AbbVie, AssureX, Astra Zeneca, Arbor Pharmaceuticals, Avanir, 
+Axovant, Biogen, Braeburn Pharmaceuticals, Bristol Myers Squibb, Celgene, 
+CeNeRx, Cephalon, Dey, Eisai, Eli Lilly, Forest, GenOmind, Glaxo Smith Kline, 
+Harmony Biosciences, Indivior, Intra-Cellular Therapies, Ironshore, ISSWSH, 
+Janssen, JayMac, Jazz, Lundbeck, Merck, Neurocrine, Neuronetics, Novartis, 
+Otsuka, Pear Therapeutics, Pfizer, Reviva, Roche, Sage, Servier, Shire, Sprout, 
+Sunovion, Supernus, TMS NeuroHealth Centers, Takeda, Teva, Tonix, Torrent, and 
+Vanda.
+
+
+4. Biol Psychiatry. 2024 Oct 15;96(8):627-637. doi: 10.1016/j.biopsych.2024.03.014. 
+Epub 2024 Mar 25.
+
+Muscarinic Receptor Activators as Novel Treatments for Schizophrenia.
+
+Paul SM(1), Yohn SE(2), Brannan SK(2), Neugebauer NM(2), Breier A(3).
+
+Author information:
+(1)Karuna Therapeutics, Boston, Massachusetts; Department of Psychiatry and 
+Neurology, Washington University of St. Louis, St. Louis, Missouri. Electronic 
+address: smpaulmd@gmail.com.
+(2)Karuna Therapeutics, Boston, Massachusetts.
+(3)Department of Psychiatry, Indiana University School of Medicine, 
+Indianapolis, Indiana.
+
+Achieving optimal treatment outcomes for individuals living with schizophrenia 
+remains challenging, despite 70 years of drug development efforts. Many 
+chemically distinct antipsychotics have been developed over the past 7 decades 
+with improved safety and tolerability but with only slight variation in 
+efficacy. All antipsychotics currently approved for the treatment of 
+schizophrenia act as antagonists or partial agonists at the dopamine D2 
+receptor. With only a few possible exceptions, antipsychotic drugs have similar 
+and modest efficacy for treating positive symptoms and are relatively 
+ineffective in addressing the negative and cognitive symptoms of the disease. 
+The development of novel treatments focused on targeting muscarinic 
+acetylcholine receptors (mAChRs) has been of interest for more than 25 years 
+following reports that treatment with a dual M1/M4-preferring mAChR agonist 
+resulted in antipsychotic-like effects and procognitive properties in 
+individuals living with Alzheimer's disease and schizophrenia; more recent 
+clinical trials have confirmed these findings. In addition, advances in our 
+understanding of the receptor binding and activation properties of xanomeline at 
+specific mAChRs have the potential to inform future drug design targeting 
+mAChRs.
+
+Copyright © 2024 Society of Biological Psychiatry. Published by Elsevier Inc. 
+All rights reserved.
+
+DOI: 10.1016/j.biopsych.2024.03.014
+PMID: 38537670 [Indexed for MEDLINE]
+
+
+5. J Clin Psychiatry. 2022 Feb 15;83(1):SU21024IP1. doi: 10.4088/JCP.SU21024IP1.
+
+Emerging Treatments in Schizophrenia.
+
+Correll CU(1)(2)(3), Abi-Dargham A(4), Howes O(5).
+
+Author information:
+(1)Department of Psychiatry, The Zucker Hillside Hospital, Glen Oaks, New York.
+(2)Department of Psychiatry and Molecular Medicine, Donald and Barbara Zucker 
+School of Medicine at Hofstra/Northwell, Hempstead, New York.
+(3)Department of Child and Adolescent Psychiatry, Charité Universitätsmedizin, 
+Berlin, Germany.
+(4)Department of Psychiatry, Renaissance School of Medicine, Stony Brook 
+University, New York.
+(5)Institute of Psychiatry, Psychology and Neuroscience, King's College, London, 
+UK.
+
+Although antipsychotics have been available for almost 70 years and greatly 
+improved outcomes for individuals with schizophrenia, all currently available 
+options derive their efficacy from blockade of dopaminergic receptors. However, 
+this mechanism of action leaves many symptoms unresolved and is associated with 
+a significant side effect burden. The mechanisms underlying schizophrenia, which 
+were initially thought to be related to excessive presynaptic dopamine in 
+specific areas of the brain, are now understood to be much more complex and 
+involve structural and molecular changes throughout brain circuits. 
+Consequently, drug discovery efforts have sought new targets in the search for 
+safer and more effective medications that can improve symptoms of schizophrenia 
+and psychosis, including trace amine-associated receptors (TAARs), muscarinic 
+receptors, and serotonergic receptors. Positive phase 2 trial results indicating 
+efficacy and safety of the TAAR1 agonist ulotaront (SEP-363856) and of the 
+muscarinic M1/M4 agonist KarXT (xanomeline plus trospium) for total, positive, 
+and negative symptoms in patients with acute exacerbation of schizophrenia, and 
+of the serotonin 5-HT2A agonist/antagonist pimavanserin in patients with 
+schizophrenia and predominant negative symptoms for negative symptom control are 
+encouraging. Taken together, these data indicate in the context of ongoing phase 
+3 trial programs that patients with schizophrenia may soon have access to the 
+first non-D2 blocking medication, which could drastically change the treatment 
+landscape and improve outcomes for many of the individuals with schizophrenia 
+who do not fully respond to or cannot tolerate currently available antipsychotic 
+agents that currently all act via postsynaptic dopamine D2 receptor blockade.
+
+© Copyright 2022 Physicians Postgraduate Press, Inc.
+
+DOI: 10.4088/JCP.SU21024IP1
+PMID: 35172048
+
+
+6. Clin Drug Investig. 2024 Jul;44(7):471-493. doi: 10.1007/s40261-024-01377-9. 
+Epub 2024 Jun 21.
+
+Current Findings and Potential Mechanisms of KarXT (Xanomeline-Trospium) in 
+Schizophrenia Treatment.
+
+Azargoonjahromi A(1).
+
+Author information:
+(1)Shiraz University of Medical Sciences, Janbazan Blv, 14th Alley, Jahrom, 
+Shiraz, 7417773539, Fars, Iran. aazargoonj@gmail.com.
+
+Standard schizophrenia treatment involves antipsychotic medications that target 
+D2 dopamine receptors. However, these drugs have limitations in addressing all 
+symptoms and can lead to adverse effects such as motor impairments, metabolic 
+effects, sedation, sexual dysfunction, cognitive impairment, and tardive 
+dyskinesia. Recently, KarXT has emerged as a novel drug for schizophrenia. KarXT 
+combines xanomeline, a muscarinic receptor M1 and M4 agonist, with trospium, a 
+nonselective antimuscarinic agent. Of note, xanomeline can readily cross 
+blood-brain barrier (BBB) and, thus, enter into the brain, thereby stimulating 
+muscarinic receptors (M1 and M4). By doing so, xanomeline has been shown to 
+target negative symptoms and potentially improve positive symptoms. Trospium, on 
+the other hand, is not able to cross BBB, thereby not affecting M1 and M4 
+receptors; instead, it acts as an antimuscarinic agent and, hence, diminishes 
+peripheral activity of muscarinic receptors to minimize side effects probably 
+stemming from xanomeline in other organs. Accordingly, ongoing clinical trials 
+investigating KarXT's efficacy in schizophrenia have demonstrated positive 
+outcomes, including significant improvements in the Positive and Negative 
+Syndrome Scale (PANSS) total score and cognitive function compared with placebo. 
+These findings emphasize the potential of KarXT as a promising treatment for 
+schizophrenia, providing symptom relief while minimizing side effects associated 
+with xanomeline monotherapy. Despite such promising evidence, further research 
+is needed to confirm the efficacy, safety, and tolerability of KarXT in managing 
+schizophrenia. This review article explores the current findings and potential 
+mechanisms of KarXT in the treatment of schizophrenia.
+
+© 2024. The Author(s), under exclusive licence to Springer Nature Switzerland 
+AG.
+
+DOI: 10.1007/s40261-024-01377-9
+PMID: 38904739 [Indexed for MEDLINE]
+
+
+7. Trends Pharmacol Sci. 2019 Dec;40(12):1006-1020. doi: 
+10.1016/j.tips.2019.10.007. Epub 2019 Nov 8.
+
+Targeting Muscarinic Acetylcholine Receptors for the Treatment of Psychiatric 
+and Neurological Disorders.
+
+Moran SP(1), Maksymetz J(2), Conn PJ(3).
+
+Author information:
+(1)Vanderbilt Brain Institute, Vanderbilt University, Nashville, TN 37232, USA; 
+Department of Pharmacology, Vanderbilt University, Nashville, TN 37232, USA; 
+Vanderbilt Center for Neuroscience Drug Discovery, Vanderbilt University, 
+Nashville, TN 37232, USA.
+(2)Department of Pharmacology, Vanderbilt University, Nashville, TN 37232, USA; 
+Vanderbilt Center for Neuroscience Drug Discovery, Vanderbilt University, 
+Nashville, TN 37232, USA.
+(3)Vanderbilt Brain Institute, Vanderbilt University, Nashville, TN 37232, USA; 
+Department of Pharmacology, Vanderbilt University, Nashville, TN 37232, USA; 
+Vanderbilt Center for Neuroscience Drug Discovery, Vanderbilt University, 
+Nashville, TN 37232, USA. Electronic address: jeffrey.conn@vanderbilt.edu.
+
+Muscarinic acetylcholine receptors (mAChR) play important roles in regulating 
+complex behaviors such as cognition, movement, and reward, making them ideally 
+situated as potential drug targets for the treatment of several brain disorders. 
+Recent advances in the discovery of subtype-selective allosteric modulators for 
+mAChRs has provided an unprecedented opportunity for highly specific modulation 
+of signaling by individual mAChR subtypes in the brain. Recently, mAChR 
+allosteric modulators have entered clinical development for Alzheimer's disease 
+(AD) and schizophrenia, and have potential utility for other brain disorders. 
+However, mAChR allosteric modulators can display a diverse array of 
+pharmacological properties, and a more nuanced understanding of the mAChR will 
+be necessary to best translate preclinical findings into successful clinical 
+treatments.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.tips.2019.10.007
+PMCID: PMC6941416
+PMID: 31711626 [Indexed for MEDLINE]
+
+
+8. Curr Mol Med. 2003 Aug;3(5):419-26. doi: 10.2174/1566524033479654.
+
+Muscarinic receptors in schizophrenia.
+
+Dean B(1), Bymaster FP, Scarr E.
+
+Author information:
+(1)The Rebecca L. Cooper Research Laboratories, The Mental Health Research 
+Institute of Victoria, Parkville, Victoria, Australia. bdean@mhri.edu.au
+
+An increasing body of evidence suggests that the muscarinic receptors may 
+present a potential therapeutic target for the treatment of schizophrenia. This 
+argument is supported by studies using postmortem CNS tissue and a neuroimaging 
+study that have shown there are regionally specific decreases in selective 
+muscarinic receptors in the CNS of subjects with schizophrenia. This raises the 
+possibility that drugs specific to individual muscarinic receptors could have 
+beneficial effects on the symptoms of schizophrenia, a posit supported by 
+studies in receptor knockout/knockdown mice where it has been shown that 
+specific behaviours affected by schizophrenia are also abnormal in mice lacking 
+a single muscarinic receptor. Moreover, drugs have been synthesised that are 
+partial agonists at muscarinic receptors and these drugs have been shown to 
+improve the behavioural deficits in humans which are modulated by the muscarinic 
+receptor family. The widespread distribution of muscarinic receptors in the 
+human CNS and the receptor specific changes identified in postmortem CNS from 
+subjects with schizophrenia would suggest that drugs targeting specific 
+muscarinic receptors would also need to partition into selected CNS regions to 
+achieve optimal responses. Some existing compounds show regional selectivity for 
+the same muscarinic receptor in different CNS regions, suggesting that this 
+characteristic could be engineered into muscarinic receptor targeting drugs. 
+This review presents data from diverse areas of research to argue that it is now 
+imperative that the therapeutic potential of manipulating the activity of 
+muscarinic receptors for the treatment of schizophrenia is fully explored.
+
+DOI: 10.2174/1566524033479654
+PMID: 12942995 [Indexed for MEDLINE]
+
+
+9. Psychiatry Res. 2020 Jun;288:112989. doi: 10.1016/j.psychres.2020.112989. Epub 
+2020 Apr 13.
+
+Muscarinic M1 and M4 receptors: Hypothesis driven drug development for 
+schizophrenia.
+
+Dean B(1), Scarr E(2).
+
+Author information:
+(1)The Molecular Psychiatry Laboratory, The Florey Institute for Neuroscience 
+and Mental Health, Parkville, Victoria 3052, Australia. Electronic address: 
+brian.dean@florey.edu.au.
+(2)Melbourne Veterinary School, Faculty of Veterinary and Agricultural Sciences, 
+University of Melbourne, Parkville, Victoria 3010, Australia.
+
+The finding that the drug KarXT, a formulation of xanomeline and tropsium which 
+targets muscarinic receptors, has given a positive result in reducing the 
+positive and negative symptoms of schizophrenia in a phase II trial suggests 
+targeting muscarinic receptors is a new approach to treating the disorder. This 
+review will detail the synergistic interplay between studies to understand the 
+role of muscarinic receptors in the aetiology of schizophrenia and drug 
+development and how this has supported the hypothesis that activating the 
+muscarinic M1 and M4 receptors is critical to the efficacy of KarXT, in 
+schizophrenia. The discovery of an intermediate phenotype within schizophrenia 
+which is characterised by the presence of a marked loss of cortical muscarinic 
+M1 receptors will be reviewed. Highlighted will be progress in understanding the 
+biochemistry of that intermediate phenotype and evidence to suggest that those 
+with the intermediate phenotype may resist treatment with agonist to the 
+orthosteric site on the muscarinic M1 and M4 receptor. Finally, the possibility 
+of using drugs targeting the allosteric binding sites on muscarinic receptors to 
+treat schizophrenia will be discussed. This timely review will therefore 
+highlight how research can influence hypothesis driven drug discovery that 
+should produce new treatments for schizophrenia.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.psychres.2020.112989
+PMID: 32315882 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest Nothing to 
+declare.
+
+
+10. Neuropharmacology. 2020 Aug 1;172:107704. doi: 10.1016/j.neuropharm.2019.107704. 
+Epub 2019 Jul 9.
+
+Antipsychotics: Mechanisms underlying clinical response and side-effects and 
+novel treatment approaches based on pathophysiology.
+
+Kaar SJ(1), Natesan S(2), McCutcheon R(2), Howes OD(3).
+
+Author information:
+(1)Department of Psychosis Studies, 5th Floor, Institute of Psychiatry, 
+Psychology & Neuroscience (IoPPN), King's College London, PO63 De Crespigny 
+Park, London, SE5 8AF, United Kingdom. Electronic address: 
+stephen.kaar@kcl.ac.uk.
+(2)Department of Psychosis Studies, 5th Floor, Institute of Psychiatry, 
+Psychology & Neuroscience (IoPPN), King's College London, PO63 De Crespigny 
+Park, London, SE5 8AF, United Kingdom.
+(3)Department of Psychosis Studies, 5th Floor, Institute of Psychiatry, 
+Psychology & Neuroscience (IoPPN), King's College London, PO63 De Crespigny 
+Park, London, SE5 8AF, United Kingdom. Electronic address: 
+oliver.howes@kcl.ac.uk.
+
+Antipsychotic drugs are central to the treatment of schizophrenia and other 
+psychotic disorders but are ineffective for some patients and associated with 
+side-effects and nonadherence in others. We review the in vitro, pre-clinical, 
+clinical and molecular imaging evidence on the mode of action of antipsychotics 
+and their side-effects. This identifies the key role of striatal dopamine D2 
+receptor blockade for clinical response, but also for endocrine and motor 
+side-effects, indicating a therapeutic window for D2 blockade. We consider how 
+partial D2/3 receptor agonists fit within this framework, and the role of 
+off-target effects of antipsychotics, particularly at serotonergic, 
+histaminergic, cholinergic, and adrenergic receptors for efficacy and 
+side-effects such as weight gain, sedation and dysphoria. We review the 
+neurobiology of schizophrenia relevant to the mode of action of antipsychotics, 
+and for the identification of new treatment targets. This shows elevated 
+striatal dopamine synthesis and release capacity in dorsal regions of the 
+striatum underlies the positive symptoms of psychosis and suggests reduced 
+dopamine release in cortical regions contributes to cognitive and negative 
+symptoms. Current drugs act downstream of the major dopamine abnormalities in 
+schizophrenia, and potentially worsen cortical dopamine function. We consider 
+new approaches including targeting dopamine synthesis and storage, 
+autoreceptors, and trace amine receptors, and the cannabinoid, muscarinic, 
+GABAergic and glutamatergic regulation of dopamine neurons, as well as 
+post-synaptic modulation through phosphodiesterase inhibitors. Finally, we 
+consider treatments for cognitive and negative symptoms such dopamine agonists, 
+nicotinic agents and AMPA modulators before discussing immunological approaches 
+which may be disease modifying. This article is part of the issue entitled 
+'Special Issue on Antipsychotics'.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.neuropharm.2019.107704
+PMID: 31299229 [Indexed for MEDLINE]
